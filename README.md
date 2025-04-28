@@ -106,10 +106,3 @@ git push origin feature-branch
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 📬 Contact
-
-For any inquiries or feedback, feel free to reach out:
-
-- **Your Name**
-- [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [@your-username](https://github.com/your-username)
